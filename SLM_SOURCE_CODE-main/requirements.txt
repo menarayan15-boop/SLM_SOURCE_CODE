@@ -1,0 +1,14 @@
+# Core research dependencies (pin exact versions after environment audit)
+torch
+numpy
+pandas
+pyarrow
+duckdb
+scikit-learn
+joblib
+requests
+matplotlib
+tqdm
+psutil
+huggingface_hub
+safetensors
